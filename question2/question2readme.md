@@ -20,5 +20,5 @@
 14. ![Screenshot 6](./assets/question2img14.png)
 15. ![Screenshot 7](./assets/question2img15.png)
 16. ![Screenshot 8](./assets/question2img16.png)
-17. ![Screenshot 7](./assets/question2img18.png)
+17. ![Screenshot 7](./assets/question2img17.png)
 18. ![Screenshot 8](./assets/question2img18.png)
